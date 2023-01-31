@@ -1,4 +1,3 @@
 # odin-recipes
-Recipes.
 
-Recipes is a basic HTML web page, demonstrating some of the acquired HTML skills.
+Recipes are basic HTML web pages, demonstrating some of the acquired HTML skills.
